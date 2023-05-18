@@ -1,7 +1,5 @@
-[![MasterHead](https://videoplasty.com/stock-animation/chill-coding-programming-lofi-animation-11018)]
-<h1 align="center">Hi 👋, I'm Omar Ahraf</h1>
+<h1 align="center">Hi 👋, I'm Omar Ashraf</h1>
 <h3 align="center">A passionate Software Developer from Egypt</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omar-26&label=Profile%20views&color=0e75b6&style=flat" alt="omar-26" /> </p>
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Ashraf</h1>
-<h3 align="center">A passionate Software Developer from Egypt</h3>
+<h3 align="center">A passionate Sophomore Electrical Engineering Student at ASUFE </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omar-26&label=Profile%20views&color=0e75b6&style=flat" alt="omar-26" /> </p>
 

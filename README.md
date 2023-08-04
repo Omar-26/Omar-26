@@ -1,4 +1,5 @@
-<img src="https://github.com/Omar-26/Omar-26/blob/main/Assets/Readme%20Header.png?raw=true">
+<div id="top"></div>
+<div align="center" ><img width="100%" alt="Omar Ashraf" src="https://github.com/Omar-26/Omar-26/blob/main/Assets/Readme%20Header.png?raw=true"></div>
 
 <h4 align="center">
 

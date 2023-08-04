@@ -23,6 +23,17 @@ ________________
   </a>
 </p>
 
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://readme-stats.clckblog.space/api?username=omar-26&theme=transparent&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=omar-26&langs_count=6&layout=compact&theme=transparent&count_private=true&hide_border=true)</a>
+<div align = "center">  
+<!-- streak stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omar-26&theme=transparent&hide_border=true" />
+</div>           
+</details>
+
 ________________
 
 ### Connect with me

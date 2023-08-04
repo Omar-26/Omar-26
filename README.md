@@ -26,8 +26,8 @@ ________________
 ________________
 
 ### Connect with me
-click the icon to contact 👆 :
-<p align="Left">
+Click the icon to contact 👆 :
+<p align="center">
 <a href="https://www.linkedin.com/in/omar-ashraf01" target="_blank"><img align="center" src="https://github.com/Omar-26/Icons/blob/main/linkedin.png?raw=true" alt="Linkedin" height="50" width="50" /></a>
 <a href="https://twitter.com/omarash78893600" target="_blank"><img align="center" src="https://github.com/Omar-26/Icons/blob/main/twitter.png?raw=true" alt="Twitter" height="50" width="50" /></a>
 <a href="mailto:eng.omar.ashraf26@gmail.com" target="_blank"><img align="center" src="https://github.com/Omar-26/Icons/blob/main/gmail.png?raw=true" alt="Gmail" height="61" width="52" /></a>

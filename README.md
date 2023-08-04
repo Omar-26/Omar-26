@@ -34,8 +34,6 @@ ________________
 </div>           
 </details>
 
-________________
-
 ### Connect with me
 Click the icon to contact 👆 :
 <p align="center">
@@ -45,5 +43,19 @@ Click the icon to contact 👆 :
 <a href="https://www.facebook.com/ommaar.ashrraaf" target="_blank"><img align="center" src="https://github.com/Omar-26/Icons/blob/main/facebook.png?raw=true" alt="Facebook" height="50" width="50" /></a>
 <a href="https://www.instagram.com/ommaar_ashrraaf/" target="_blank"><img align="center" src="https://github.com/Omar-26/Icons/blob/main/instagram.png?raw=true" alt="Instagram" height="52" width="52" /></a>
 </p>
+
+________________
+<!-- ////////////////////////////////////////////// -->
+
+<h3>:book: Guestbook</h3>
+<p>Leave a cool message for me or just say you passed by <a href="https://github.com/Carol42/Carol42/issues/new?template=guestbook-entry.md">here</a>!</p>
+<p>Or ask me anything at <a href="https://github.com/Carol42/Carol42/discussions/new/choose">Discussions</a>!</p>
+<!-- ////////////////////////////////////////////// -->
+
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=28&pause=1000&color=06609f&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >
+    </a>
+</div>
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=06609f&style=flat&logo" alt="back to top" /></a></p>

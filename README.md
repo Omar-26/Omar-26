@@ -26,8 +26,8 @@ ________________
 <details>
   <summary>Github Stats ⚡</summary>
   
-  <a href="#">![Github stats](https://readme-stats.clckblog.space/api?username=omar-26&theme=transparent&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=omar-26&langs_count=6&layout=compact&theme=transparent&count_private=true&hide_border=true)</a>
+<a href="#">![Github stats](https://readme-stats.clckblog.space/api?username=omar-26&theme=transparent&count_private=true&hide_border=true&line_height=20)</a>
+<a href="#">![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=omar-26&langs_count=6&layout=compact&theme=transparent&count_private=true&hide_border=true)</a>
 <div align = "center">  
 <!-- streak stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omar-26&theme=transparent&hide_border=true" />
@@ -45,3 +45,8 @@ Click the icon to contact 👆 :
 <a href="https://www.facebook.com/ommaar.ashrraaf" target="_blank"><img align="center" src="https://github.com/Omar-26/Icons/blob/main/facebook.png?raw=true" alt="Facebook" height="50" width="50" /></a>
 <a href="https://www.instagram.com/ommaar_ashrraaf/" target="_blank"><img align="center" src="https://github.com/Omar-26/Icons/blob/main/instagram.png?raw=true" alt="Instagram" height="52" width="52" /></a>
 </p>
+
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=06609f&style=flat&logo" alt="back to top" /></a></p>
+
+<!-- footer -->
+<img src="https://psafacilities.com/img/footer.png"/>

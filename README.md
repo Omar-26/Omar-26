@@ -34,6 +34,7 @@ ________________
 </div>           
 </details>
 
+________________
 ### Connect with me
 Click the icon to contact 👆 :
 <p align="center">
@@ -44,12 +45,13 @@ Click the icon to contact 👆 :
 <a href="https://www.instagram.com/ommaar_ashrraaf/" target="_blank"><img align="center" src="https://github.com/Omar-26/Icons/blob/main/instagram.png?raw=true" alt="Instagram" height="52" width="52" /></a>
 </p>
 
-________________
 <!-- ////////////////////////////////////////////// -->
 
-<h3>:book: Guestbook</h3>
+<!-- <h3>:book: Guestbook</h3>
 <p>Leave a cool message for me or just say you passed by <a href="https://github.com/Carol42/Carol42/issues/new?template=guestbook-entry.md">here</a>!</p>
 <p>Or ask me anything at <a href="https://github.com/Carol42/Carol42/discussions/new/choose">Discussions</a>!</p>
+ -->
+
 <!-- ////////////////////////////////////////////// -->
 
 <div align="center">

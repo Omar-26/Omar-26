@@ -1,5 +1,5 @@
 <div id="top"></div>
-<div align="center" ><img width="100%" alt="Omar Ashraf" src="https://github.com/Omar-26/Icons/blob/main/Readme%20Header.png?raw=true?raw=true"></div>
+<div align="center" ><img width="50%" alt="Omar Ashraf" src="https://github.com/Omar-26/Icons/blob/main/Readme%20Header.png?raw=true?raw=true"></div>
 
 <h4 align="center">
 

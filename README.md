@@ -47,6 +47,3 @@ Click the icon to contact 👆 :
 </p>
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=06609f&style=flat&logo" alt="back to top" /></a></p>
-
-<!-- footer -->
-<img src="https://psafacilities.com/img/footer.png"/>

@@ -1,7 +1,7 @@
 ![Header](https://github.com/Omar-26/Omar-26/blob/main/Assets/Readme%20Header.png?raw=true "Header")
 
-<h4 align="center">    
-    
+<h4 align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-ashraf01)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shehabmahmoud2003@gmail.com)](mailto:eng.omar.ashraf26@gmail.com)
 [![Spotify](https://img.shields.io/badge/-Spotify-1db954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/314bnyfhf5lrsio23jowt3azsnb4)

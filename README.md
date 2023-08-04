@@ -1,4 +1,4 @@
-![Header](https://github.com/Omar-26/Omar-26/blob/main/Assets/Readme%20Header.png?raw=true?raw=true "Omar Ashraf")
+<img src="https://github.com/Omar-26/Omar-26/blob/main/Assets/Readme%20Header.png?raw=true">
 
 <h4 align="center">
 

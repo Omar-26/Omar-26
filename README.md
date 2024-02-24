@@ -19,8 +19,8 @@
 
 ________________
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,flutter,dart,firebase,vscode,visualstudio,matlab" /><br>
-    <img src="https://skillicons.dev/icons?i=arduino,git,github,md,stackoverflow,devto,powershell,vim,autocad,ps,ai,pr"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,html,css,js,flutter,dart,firebase,figma,androidstudio" /><br>
+    <img src="https://skillicons.dev/icons?i=linux,git,github,gitlab,md,vscode,octave,matlab,autocad,ps,ai,pr"/>
   </a>
 </p>
 

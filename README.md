@@ -12,7 +12,7 @@
 
 ## Hello folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-**I'm Omar Ashraf** - I'm a Junior CSE Student at ASUFE.
+**I'm Omar Ashraf** - I'm a Junior Computer and  Systems Engineering student at Ain Shams University.
 <p> <img src="https://komarev.com/ghpvc/?username=omar-26&label=Profile%20views&color=0e75b6&style=flat" alt="omar-26" /> </p>
 
 <p align="left"> <a href="https://twitter.com/omarash78893600" target="_blank"><img src="https://img.shields.io/twitter/follow/omarash78893600?logo=twitter&style=for-the-badge" alt="omarash78893600" /></a> </p>

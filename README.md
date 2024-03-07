@@ -1,5 +1,5 @@
 <div id="top"></div>
-<div align="center" ><a href="https://omar-26.github.io/" target="_blank"><img width="100%" alt="Omar Ashraf" src="https://raw.githubusercontent.com/Omar-26/Omar-26/c05720b02235b756520db6274f8ecf78066634e7/Readme%20Header.jpg"></a></div>
+<div align="center" ><a href="https://omarashraf.hashnode.dev/" target="_blank"><img width="100%" alt="Omar Ashraf" src="https://raw.githubusercontent.com/Omar-26/Omar-26/c05720b02235b756520db6274f8ecf78066634e7/Readme%20Header.jpg"></a></div>
 
 <h4 align="center">
 
